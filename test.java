@@ -1,2 +1,2 @@
-testing >> test.java
-echo testing
+Application testing is in progress. Test before deployment. 
+
